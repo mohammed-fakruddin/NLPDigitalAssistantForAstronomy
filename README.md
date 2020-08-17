@@ -1,5 +1,6 @@
 # NLPDigitalAssistantForAstronomy
 # Site Link
+https://mohammed-fakruddin.github.io/NLPDigitalAssistantForAstronomy/
 # YouTube Link
 https://youtu.be/iwlGUlOn0zk
 # Objectives
