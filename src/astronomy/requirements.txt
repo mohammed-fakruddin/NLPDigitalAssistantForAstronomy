@@ -1,0 +1,12 @@
+xmltodict
+requests
+flask
+beautifulsoup4
+geopy
+firebase
+firebase_admin
+python_jwt
+gcloud
+sseclient
+pycryptodome
+requests-toolbelt
